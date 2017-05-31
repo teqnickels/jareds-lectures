@@ -10,12 +10,15 @@ There is no way to scope or nest classnames
 The order at which you're styles fall within your final CSS artifact impacts the order at which they're applied.
 
 ## Selector Specificity
-
+  Use classes, not IDs
+  Use prefixes
+  
 
 [Specificity Calculator](https://specificity.keegan.st/)
 
 
 ## Pitfalls
+Just give everything a class
 
 ### Using IDs
 
